@@ -272,7 +272,7 @@ function App() {
                 />
               </div>
               <input
-                type="text"
+                type="tel"
                 name="phoneNumber"
                 id="phone-number"
                 autoComplete="tel"
